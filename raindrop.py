@@ -6,7 +6,7 @@ def main():
     print("Welcome to Raindrop Game!")
 
     mistake = 3
-    score=0
+    score = 0
     totalQuestion = 0
 
     start = time.time()
